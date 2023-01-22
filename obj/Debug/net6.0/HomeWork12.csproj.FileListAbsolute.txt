@@ -1,0 +1,15 @@
+/Users/budarin/Desktop/HomeWork12/bin/Debug/net6.0/HomeWork12
+/Users/budarin/Desktop/HomeWork12/bin/Debug/net6.0/HomeWork12.deps.json
+/Users/budarin/Desktop/HomeWork12/bin/Debug/net6.0/HomeWork12.runtimeconfig.json
+/Users/budarin/Desktop/HomeWork12/bin/Debug/net6.0/HomeWork12.dll
+/Users/budarin/Desktop/HomeWork12/bin/Debug/net6.0/HomeWork12.pdb
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/HomeWork12.csproj.AssemblyReference.cache
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/HomeWork12.GeneratedMSBuildEditorConfig.editorconfig
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/HomeWork12.AssemblyInfoInputs.cache
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/HomeWork12.AssemblyInfo.cs
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/HomeWork12.csproj.CoreCompileInputs.cache
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/HomeWork12.dll
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/refint/HomeWork12.dll
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/HomeWork12.pdb
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/HomeWork12.genruntimeconfig.cache
+/Users/budarin/Desktop/HomeWork12/obj/Debug/net6.0/ref/HomeWork12.dll
